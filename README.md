@@ -1,1 +1,2 @@
--eHello world\n
+-eHello world!\n
+# exercice-git-merge
