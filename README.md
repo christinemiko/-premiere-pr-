@@ -1,1 +1,1 @@
-Initialisation du fichier
+-eHello world\n
